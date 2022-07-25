@@ -1,8 +1,4 @@
-*{
-          margin: 0 auto;
-          padding: auto;
-          box-sizing: border-box;
-}
+
 .cat-1{
           background-color:orange;
 }
@@ -13,7 +9,7 @@
           background-color: blue;
 }
 .carousel-item{
-          background-color:hsl(335, 27%, 84%) ;
+          background-color:lightgoldenrodyellow ;
 }
 .btn.btn-bg{
           background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
@@ -24,15 +20,5 @@
     cursor: pointer;
     text-align: center;
    
-    margin-left: 0%;
+    
 }
-.shoe, .bag{
-          width: 100%;
-          height: 45rem;
-          overflow:wrap;
-          align-items: stretch;
-}
-.card-footer{
-          background-color: white;
-          border-top: none;
-      }
