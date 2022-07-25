@@ -1,0 +1,38 @@
+*{
+          margin: 0 auto;
+          padding: auto;
+          box-sizing: border-box;
+}
+.cat-1{
+          background-color:orange;
+}
+.cat-2{
+          background-color: #f4266bcb;
+}
+.cat-3{
+          background-color: blue;
+}
+.carousel-item{
+          background-color:hsl(335, 27%, 84%) ;
+}
+.btn.btn-bg{
+          background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-align: center;
+   
+    margin-left: 0%;
+}
+.shoe, .bag{
+          width: 100%;
+          height: 45rem;
+          overflow:wrap;
+          align-items: stretch;
+}
+.card-footer{
+          background-color: white;
+          border-top: none;
+      }
